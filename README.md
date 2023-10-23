@@ -1,2 +1,0 @@
-# datosPioneerMancha
- Datos Mercado CLM
